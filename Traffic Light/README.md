@@ -2,5 +2,5 @@
 
 A controller that changes the traffic lights based on cars in certain lanes. Allows for most optimal traffic flow.
 
-State Diagram shows how the program cycles.
-Traffic image is also provided.
+State Diagram shows how the controller decides the states of the traffic lights.
+Images shows how the traffic looks like.
